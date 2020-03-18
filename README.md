@@ -9,6 +9,6 @@ For details please follow the link to project [Wiki](https://github.com/dckntm/f
 If you wish to take part in developemnt please follow 
 
 * [focus-backend](https://github.com/dckntm/focus-backend)
-* [focus-frontend](https://github.com/dckntm/focus-fronend)
+* [focus-frontend](https://github.com/dckntm/focus-frontend)
 
 In this repository you can find deployment automation scripts
