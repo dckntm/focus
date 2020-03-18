@@ -1,11 +1,14 @@
-# Template
+# Focus
 
 ## Description
 
-Please provide consistent description of your repository. Explain what you develop and why it's better than alternatives (if there are any)
+Focus is a service for organizations that want to analyze how their subordinate organizations work via automation of report distribution & analysis.
 
----
+For details please follow the link to project [Wiki](github.com/dckntm/focus/wiki)
 
-Place there anything that seems to be important about your repository - navigation links, quick introduction, contribution guidelines, FAQ, etc. 
+If you wish to take part in developemnt please follow 
 
-By default repository is provided with Apache License 2.0 https://www.apache.org/licenses/LICENSE-2.0
+* [focus-backend](github.com/dckntm/focus-backend)
+* [focus-frontend](github.com/dckntm/focus-fronend)
+
+In this repository you can find deployment automation scripts
